@@ -26,7 +26,7 @@ export default function Home() {
         <div className="text-center mb-12 transform hover:scale-105 transition-transform duration-300">
           <div className="relative w-32 h-32 mx-auto mb-6 rounded-full bg-white dark:bg-gray-800 shadow-lg p-4">
             <Image
-              src="/logo2.png"
+              src="/Logo2.png"
               alt="Logo"
               width={96}
               height={96}
